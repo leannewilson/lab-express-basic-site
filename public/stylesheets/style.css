@@ -1,0 +1,89 @@
+.body {
+  margin: 0;
+  padding: 0;
+}
+
+.main-title {
+  display: flex;
+  justify-content: center;
+}
+
+.links {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.links a {
+  display: flex;
+  justify-content: center;
+  padding-bottom: 1em;
+  text-decoration: none;
+  color: black;
+}
+
+.links2 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin: 1em;
+}
+
+.links2 a {
+  display: flex;
+  justify-content: center;
+  padding-bottom: 1em;
+  text-decoration: none;
+  color: black;
+}
+
+.colored-queen {
+  width: 100vw;
+}
+
+.blue-queen {
+  width: 90%;
+  display: flex;
+  margin: auto;
+  margin-top: 20px;
+}
+
+.paragraphs {
+  width: 85%;
+  display: flex;
+  margin: auto;
+  padding: 1em;
+  background-color: rgb(72, 143, 235);
+  color: white;
+}
+
+.main-past {
+  background-color: yellow;
+  width: 250px;
+  font-size: 20px;
+  padding-top: 13px;
+  margin: auto;
+}
+
+.main-work {
+  background-color: lavender;
+  width: 250px;
+  font-size: 20px;
+  padding-top: 13px;
+  margin: auto;
+}
+
+.about-paragraphs {
+  width: 85%;
+  display: flex;
+  margin: auto;
+  padding: 1em;
+  background-color: lavender;
+  color: black;
+}
+
+.h1-about,
+h3 {
+  display: flex;
+  justify-content: center;
+}
